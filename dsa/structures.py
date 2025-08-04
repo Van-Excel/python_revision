@@ -1,3 +1,6 @@
+# Linear structures
+# developing great programming habits that make you a senior software engineer
+
 class Stack:
     """
     A class representing a stack data structure, which follows the Last In, First Out (LIFO) principle.
